@@ -16,6 +16,7 @@ ArionIMC를 활용한 카메라 영상 재생
 키보드 / 마우스 / micro B OTG
 
 ## 명령어
+![command](https://user-images.githubusercontent.com/79436938/109911513-955e2300-7ced-11eb-87b4-63ec19070187.png)
 $ gst-launch-1.0 v4l2src device=/dev/video0 ! ximagesink
 
 "gst-launch-1.0"
